@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Vercel]([https://your-live-site-url.com](https://qr-code-component-main-eight.vercel.app/))
+- Live Site URL: [Vercel](https://qr-code-component-main-eight.vercel.app/)
 
 ## Author
 
